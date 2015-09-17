@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mvcapp:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="mvcapp-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="mvcapp:war exploded" />
+    </root>
+  </artifact>
+</component>
